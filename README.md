@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/c3iot/C3%20IoT%20Ex%20Machina/_apis/build/status/scopeta.pipelines-java)](https://dev.azure.com/c3iot/C3%20IoT%20Ex%20Machina/_build/latest?definitionId=2)
 
 # Contributing
 
